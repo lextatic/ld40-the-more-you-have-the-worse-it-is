@@ -14,7 +14,6 @@ public class Beam : MonoBehaviour {
 	[SerializeField]
 	Color Color2;
 
-
 	bool color1 = false;
 
 	public static int monsterKills = 0;

@@ -9,8 +9,10 @@ public class TriggerArea : MonoBehaviour
 
 	bool triggered = false;
 
-	public void OnTriggerEnter(Collider other)
+	public IEnumerator OnTriggerEnter(Collider other)
 	{
+		yield return null;
+
 		if(!triggered && other.CompareTag("Player"))
 		{
 			foreach(GameObject obj in tiggerComponents)

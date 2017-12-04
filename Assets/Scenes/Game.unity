@@ -23828,7 +23828,7 @@ Prefab:
     - target: {fileID: 114851775456447848, guid: 4ccd1a36e4858c1429ed7c5938b9ea79,
         type: 2}
       propertyPath: monsterStartingLife
-      value: 10
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 4ccd1a36e4858c1429ed7c5938b9ea79, type: 2}
