@@ -21,7 +21,7 @@ GameObject:
   - component: {fileID: 4421405582700960}
   - component: {fileID: 33111350725326636}
   - component: {fileID: 23671092994355106}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: default
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -39,7 +39,7 @@ GameObject:
   - component: {fileID: 65491044591048646}
   - component: {fileID: 54811260253569132}
   - component: {fileID: 114555385471571600}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: PlayerBlood
   m_TagString: Untagged
   m_Icon: {fileID: 0}
